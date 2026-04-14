@@ -1,0 +1,15 @@
+dataset/
+submissions/
+
+# Environment
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Claude Code
+.claude/
+
+# macOS
+.DS_Store
